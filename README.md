@@ -84,14 +84,6 @@ Input: [-15.  -6.], Prediction: 0.9879 → Female, Actual: Female
 - Understood **forward and backward propagation**
 - Learned how to update **weights and biases manually**
 
-## Project Structure:
-simple-neural-network/
-│
-├── neural_network.py    # Main Python script for the neural network
-├── data.csv             # Original dataset
-├── README.md            # Project documentation
-├── requirements.txt     # List of dependencies (numpy)
-└── LICENSE              # Project license / usage information
 
 
 ## License
